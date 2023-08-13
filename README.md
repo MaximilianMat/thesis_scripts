@@ -23,4 +23,4 @@ Uses issues-teamscale-tga.json file exported from Teamscale and requests detaile
 
 issue_analysis.py:
 
-Prints the number of combinations of issue metrics: <java present>, <js present>, <has java_gap>, <has js_gap>. Issue data is read from issue_data.json, created by issue_survey.py.
+Prints the number of combinations of issue metrics: {is java present}, {js present}, {has java_gap}, {has js_gap}. Issue data is read from issue_data.json, created by issue_survey.py.
